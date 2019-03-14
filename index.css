@@ -1,0 +1,22 @@
+.rounded-circle{
+    border:5px
+}
+#about{
+    background-color: rgb(29, 243, 225);
+    width: 100%
+}
+section{
+    min-height: 400px
+}
+hr{
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 250px;
+}
+.jumbotron {
+    margin-bottom:-20px;
+    background-image: url('./img/bg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    color:white
+}
